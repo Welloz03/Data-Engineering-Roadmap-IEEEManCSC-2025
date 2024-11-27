@@ -10,7 +10,7 @@
         <img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/b45fb898078e84ea5c3be2daab5f867b9a285501/Images/General%20Roadmap.png" style="width: 22em; margin-right:9%">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="">
+    <a href="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/main/Roadmap%20Into%20Weeks.md">
         <img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/dde8b3fc85977e87b6a556406d4f530b14e5247e/Images/Scheduled%20Roadmap.png" style="width:19em;" >
     </a>
 </p>
