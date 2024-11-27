@@ -1,25 +1,59 @@
 <h1 align="center">Roadmap Into Weeks </h1> 
 
   
- ## It's the same roadmap, but divided into weeks with an average studying rate of 6 hours per week. 
+ ## It's the same roadmap, but divided into weeks with an average studying rate of 8 hours per week. 
   
  ### This roadmap is divided into 4 levels: 
- ### 1. [Stage 1](#stage-1): you get a basic understanding of the prerequisites, data cleaning, and git. 
- ### 2. [Stage 2](#stage-2): learn visualizing, Tableau, SQL, and web scraping. 
- ### 3. [Stage 3](#stage-3): dive into ML and Math 
- ### 4. [Stage 4](#stage-4): where we learn DL, CV, and NLP. 
+ ### 1. [Stage 1](#stage-1): By completing this stage, You will gain a solid foundation in SQL, Python, and data analysis. You will be able to work with relational databases and manipulate data effectively. 
+ ### 2. [Stage 2](#stage-2): By completing this stage, You will gain a solid foundation in data warehousing, ETL processes, and data visualization. You will be able to design and implement data warehouses, extract, transform, and load data using SSIS and Python, And create insightful dashboards using Power BI and Tableau. 
+ ### 3. [Stage 3](#stage-3): By completing this stage, You will gain expertise in advanced data engineering tools and technologies. You will be able to work with Linux, Snowflake, and dbt to build robust and scalable data pipelines.
+ ### 4. [Stage 4](#stage-4): By completing this stage, You will gain advanced cloud computing skills, master orchestration tools like Airflow, and dive into big data technologies like Hadoop and Spark. You will be well-prepared to design and implement complex data pipelines in cloud environments. 
  
  <br> 
  
  > You should make a task after each week, and some projects after each stage. 
   
-<h2 id="stage-1"><a href="#stage-1"><img src="Assets/stage1.png" width="200px"></a></h2>
+<h2 id="stage-1"><a href="#stage-1"><img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/a431433a0eaf7298b4bf1dd60623c5241ce0993d/Images/Stage%201.png" width="200px"></a></h2>
 
 
 
  
 ### Week 1 : 
-[Python-Basics](https://www.coursera.org/learn/python-basics) <br> 
+[Relational Database(from 1 to 5)](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) <br>
+<details>
+<summary>
+  Additional
+</summary>
+
+[Relational Database Internals(1 to 11)](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF)
+</details>
+<details>
+<summary>
+  Task
+</summary>
+ <a href="https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql">Problem Solving in SQL-HackerRank</a><br>
+</details>
+<br><be>
+
+### Week 2 : 
+[Relational Database(from 6 to 11)](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) <br>
+<details>
+<summary>
+  Additional
+</summary>
+
+[Relational Database Internals(12 to 22)](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF)
+</details>
+<details>
+<summary>
+  Task
+</summary>
+ <a href="https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql">Problem Solving in SQL-HackerRank</a><br>
+</details>
+<br><br>
+
+### Week 3: 
+[SQL-Big Data بالعربي](https://www.youtube.com/watch?v=kb-_GbpH3sQ&t=1s) <br>
 <details>
 <summary>
   Additional
@@ -29,94 +63,62 @@
 <summary>
   Task
 </summary>
-  
-[Task-1 Notebook](https://colab.research.google.com/drive/11gNjyWxI1JShycED8Zmr6VlNqSjQehUM)
-</details>
-<br><br>
-
-### Week 2: 
-[Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries) <br>
-<details>
-<summary>
-  Additional
-</summary>
-
-[Python Cheatsheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
-</details>
-<br><br>
-
-
-### Week 3: 
-[Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) <br>
-<details>
-<summary>
-  Additional
-</summary>
-
-[Nice Medium Article](https://pub.towardsai.net/complete-guide-to-statistics-descriptive-statistics-part-1-600a7783be0)<br>
-[Descriptive Statistics Session](https://drive.google.com/file/d/1vapIBlkpg1Ry5D0Pcej3bSP3cGCDyu_i/view?usp=sharing)
+ <a href="https://leetcode.com/studyplan/top-sql-50/">Problem Solving in SQL-Leetcode</a><br>
+  <a href="https://datalemur.com/">Problem Solving in SQL-DataLemur</a><br>
 </details>
 <br><br>
 
 
 ### Week 4: 
-[Numpy (Full course)](https://app.datacamp.com/learn/courses/introduction-to-numpy) <br>
-[Numpy DOC](https://numpy.org/learn/) <br>
+[Python Basics-Big Data بالعربي-Part1](https://www.youtube.com/watch?v=XKQaCF_Om8o) <br>
+[Python Basics-Big Data بالعربي-Part 2](https://www.youtube.com/watch?v=XKQaCF_Om8o) <br>
 <details>
 <summary>
   Additional
 </summary>
 
-[Comprehensive Numpy Notebook](https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb)
+[Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
+
+</details>
+<details>
+<summary>
+  Task
+</summary>
+ <a href="https://www.hackerrank.com/domains/python">Problem Solving in Python-HackerRank</a><br>
+</details>
+<br><br>
+
+
+### Week 5: 
+[Python Libraries-Numpy](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br>
+[Python Libraries-Pandas(1 to 6)](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br>
+<details>
+<summary>
+  Additional
+</summary>
+
+[Python Libraries-Numpy-DataCamp](https://app.datacamp.com/learn/courses/introduction-to-numpy) <br>
 </details>
 <br><br>
 
  
-### Week 5: 
-6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-
-### Week 6:
-Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
+### Week 6: 
+[Python Libraries-Pandas(7 to 11)](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br> 
 <details>
 <summary>
   Additional
 </summary>
 
-[Pandas Summary Notebook](https://github.com/ageron/handson-ml3/blob/main/tools_pandas.ipynb)
+[Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas) <be>
+[Joining Data with pandas](https://app.datacamp.com/learn/courses/joining-data-with-pandas) <br>
 </details>
 <br><br>
-
 
 ### Week 7: 
-[Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br> 
-<details>
-<summary>
-  Additional
-</summary>
-
-[Awesome Youtube 6h Course](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUeYmlnIGRhdGEg2KjYp9mE2LnYsdio2YogZ2l0dWhi)
-</details>
-<br><br>
-
-
-### Week 8:
-[Google First Course](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
+"Revision on the Past weeks"
+<br>Take a Look at the General roadmap and enrich your knowledge from the beginner level <a href="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/main/General%20Roadmap.md">General Roadmap</a><br> And continue to solve on SQL & Python in Leetcode and DataLemur (HackerRank is beginner friendly so we want to level up more) <br> Don't forget to apply your newly acquired skills to a project
  
-<h2 id="stage-2"><a href="#stage-2"><img src="Assets/stage 2.png" width="200px"></a></h2>
+<h2 id="stage-2"><a href="#stage-2"><img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/a431433a0eaf7298b4bf1dd60623c5241ce0993d/Images/Stage%202.png" width="200px"></a></h2>
 
 ### Week 1:
 [Cleaning (data camp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
@@ -236,7 +238,7 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 </details>
 <br><br>
 
-<h2 id="stage-3"><a href="#stage-3"><img src="Assets/stage 3.png" width="200px"></a></h2>
+<h2 id="stage-3"><a href="#stage-3"><img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/a431433a0eaf7298b4bf1dd60623c5241ce0993d/Images/Stage%203.png" width="200px"></a></h2>
  
 ### Week 1 : 
 [linear Algebra](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) <br>
@@ -427,7 +429,7 @@ Chapter 9 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Sc
 </details>
 <br><br>
    
-<h2 id="stage-4"><a href="#stage-4"><img src="Assets/stage 4_e.png" width="200px"></a></h2>
+<h2 id="stage-4"><a href="#stage-4"><img src="" width="200px"></a></h2>
 
 ### Week 1 : 
 [First 2 Weeks Neural Networks course](https://www.coursera.org/learn/neural-networks-deep-learning) <br>
