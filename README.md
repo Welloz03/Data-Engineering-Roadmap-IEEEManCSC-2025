@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">  ⏬ Click On either roadmap ⏬ </h3>
+<h3 align="center">  ⏬ Click and choose your preferred way ⏬ </h3>
 <p align="center">
     <a href="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/main/General%20Roadmap.md">
         <img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/b45fb898078e84ea5c3be2daab5f867b9a285501/Images/General%20Roadmap.png" style="width: 22em; margin-right:9%">
