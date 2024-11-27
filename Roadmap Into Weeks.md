@@ -455,7 +455,6 @@
 [Spark-Udacity (1 to 3)](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) <br>
 [Learning Spark, 2nd Edition CH 3 & CH 4](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/?_gl=1*179wvmq*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3ODcwOS4zLjEuMTczMjY3ODczOC4zMS4wLjA.) <br>
 <details>
-<details>
 <summary>
   Additional
 </summary>
