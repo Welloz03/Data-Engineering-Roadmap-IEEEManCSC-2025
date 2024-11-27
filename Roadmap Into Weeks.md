@@ -109,7 +109,7 @@
   Additional
 </summary>
 
-[Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas) <be>
+[Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas) <br>
 [Joining Data with pandas](https://app.datacamp.com/learn/courses/joining-data-with-pandas) <br>
 </details>
 <br><br>
@@ -121,72 +121,78 @@
 <h2 id="stage-2"><a href="#stage-2"><img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/a431433a0eaf7298b4bf1dd60623c5241ce0993d/Images/Stage%202.png" width="200px"></a></h2>
 
 ### Week 1:
-[Cleaning (data camp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
-[The Ultimate Guide to Data Cleaning](https://bit.ly/3vXqybR ) <br>
+[Data Warehouse-Concepts(1 to 20)](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF) <br> 
+[The Data Warehouse Toolkit CH 1](https://www.oreilly.com/library/view/the-data-warehouse/9781118530801/) <br>
 <details>
 <summary>
   Additional
 </summary>
-  <a href="https://github.com/Ahmed-Hereiz/My-Summmary/blob/main/Data%20cleaning/pandas_data_cleaning.ipynb">Data Cleaning Summary</a><br>
-</details>
-<details>
-<summary>
-  Task
-</summary>
- <a href="https://drive.google.com/drive/folders/1CtOEFZxKxZ7zIG7021S2CypP2_JqjSz6">Task Data</a><br>
+  <a href="https://app.datacamp.com/learn/courses/data-warehousing-concepts">DataCamp</a><br>
 </details>
 <br><br>
 
  
 ### Week 2:
-[Understanding Data Visualization](https://app.datacamp.com/learn/courses/understanding-data-visualization) <br>
-[Introduction to Data Visualization with Seaborn](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn) <br>
+[Data Warehouse-Concepts(21 to 40)](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF) <br>
+[The Data Warehouse Toolkit CH 2 & CH 3](https://www.oreilly.com/library/view/the-data-warehouse/9781118530801/) <br>
 <details>
 <summary>
   Additional
 </summary>
-  <a href="https://github.com/Ahmed-Hereiz/My-Summmary/blob/main/Seaborn%20Basics/Seaborn%20basics.ipynb">Seaborn Summary</a><br>
 </details>
 <br><br>
 
 
 ### Week 3:
-[Intermediate Data Visualization with Seaborn](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn) <br>
-[Matplotlib Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+[Implementing Data Warehouse(1 to 20)](https://www.youtube.com/playlist?list=PL1565idytjOTwGN63vZK7lNK6pVXpGo3s) <br>
+[The Data Warehouse Toolkit CH 4](https://www.oreilly.com/library/view/the-data-warehouse/9781118530801/) <br>
 <details>
 <summary>
   Additional
 </summary>
-  <a href="https://github.com/Ahmed-Hereiz/My-Summmary/blob/main/Seaborn%20More%20Visualizations/More%20visualizations.ipynb">More Seaborn Summary</a><br>
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  <a href="https://www.youtube.com/playlist?list=PLcAbhg_RWLaLUaYpAAvOLu2hlyVgZlRjb">Project</a><br>
 </details>
 <br><br>
 
  
 ### Week 4: 
-[Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
+[Implementing Data Warehouse(20 to 44)](https://www.youtube.com/playlist?list=PL1565idytjOTwGN63vZK7lNK6pVXpGo3s) <br>
+[The Data Warehouse Toolkit CH 5](https://www.oreilly.com/library/view/the-data-warehouse/9781118530801/) <br>
 <details>
 <summary>
   Additional
 </summary>
-  <a href="https://github.com/Ahmed-Hereiz/My-Summmary/blob/main/EDA/EDA%20Notebook.ipynb">EDA Summary</a><br>
-  
-  [EDA Session](https://drive.google.com/drive/folders/1sVzxFE3FWcOWer24xCMQqcExwaecuFKI)
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  <a href="https://www.youtube.com/watch?v=eNxbMwUGl1g&t=2888s">Project</a><br>
 </details>
 <br><br>
 
 
 ### Week 5: 
-First 2 lessons [Data Visualization with Tableau](https://learn.udacity.com/courses/ud1006) <br> 
+[ETL using SSIS-Wise Owl](https://www.youtube.com/playlist?list=PLNIs-AWhQzcmPg_uV2BZi_KRG4LKs6cRs) <br> 
 <details>
 <summary>
   Additional
 </summary>
+
+[Eng.Ahmed Elrefaey](https://www.youtube.com/playlist?list=PLgOQg5m1pmp84jmXHGNWWYuU3m4bNCmfs) <br> 
 </details>
 <br><br>
 
 
 ### Week 6: 
-Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud1006) <br> 
+[Introduction to Importing Data in Python](https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-python) <br>
+[Intermediate Importing Data in Python](https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python) <br> 
+[Cleaning Data in Python](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
 <details>
 <summary>
   Additional
@@ -196,7 +202,8 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 
 
 ### Week 7: 
-[Excel Tutorials for Data Analysts](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5) <br> 
+[Streamlined Data Ingestion with pandas](https://app.datacamp.com/learn/courses/streamlined-data-ingestion-with-pandas) <br> 
+[ETL and ELT in Python](https://app.datacamp.com/learn/courses/etl-and-elt-in-python ) <br> 
 <details>
 <summary>
   Additional
@@ -206,85 +213,88 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 
  
 ### Week 8: 
-[Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
-[Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
+[Power BI (1 to 4)](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/?couponCode=MTST7102224A2) <br> 
 <details>
 <summary>
   Additional
 </summary>
 
-[FreeCodeCamp Youtube Course](https://www.youtube.com/watch?v=HXV3zeQKqGY&pp=ygUDc3Fs)
+[Free Arabic ALternative](https://www.youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63)
 </details>
 <br><br>
 
 
 ### Week 9: 
-[intermediate SQL](https://app.datacamp.com/learn/courses/intermediate-sql-queries) <br> 
+[Power BI (finish the course)](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/?couponCode=MTST7102224A2) <br> 
 <details>
 <summary>
   Additional
 </summary>
-</details>
-<br><br>
-
-
-### Week 10: 
-[Web scraping](https://app.datacamp.com/learn/courses/web-scraping-with-python) <br> 
-<details>
-<summary>
-  Additional
-</summary>
-  <a href="https://youtu.be/YiPYIlmqwdw?si=DkV1dysTavlx4-A4">Web Scraping video</a><br>
-</details>
-<br><br>
-
-<h2 id="stage-3"><a href="#stage-3"><img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/a431433a0eaf7298b4bf1dd60623c5241ce0993d/Images/Stage%203.png" width="200px"></a></h2>
- 
-### Week 1 : 
-[linear Algebra](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) <br>
-<details>
-<summary>
-  Additional
-</summary>
-
-[Linear Algebra Notebook](https://github.com/ageron/handson-ml3/blob/main/math_linear_algebra.ipynb)
 </details>
 <details>
 <summary>
   Task
 </summary>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLScL6QDjvauPEiVek1d4gI_yPg1Fpq07gVCx0BAnLfmRiyLYdA/viewform">Linear Algebra task link</a><br>
+<a href="https://www.youtube.com/playlist?list=PLLjXG6DNHEgaOPcaa6q9y5PMRw6GuowmD">Project</a><br>
+</details>
+<br><br>
+
+
+<h2 id="stage-3"><a href="#stage-3"><img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/a431433a0eaf7298b4bf1dd60623c5241ce0993d/Images/Stage%203.png" width="200px"></a></h2>
+ 
+### Week 1 : 
+[Linux-Big Data بالعربي](https://www.youtube.com/watch?v=gojeTqXdBH0&list=PLrooD4hY1QqADSWBJISGAq_qEPIed550b&index=3) <br>
+<details>
+<summary>
+  Additional
+</summary>
+
+</details>
+<details>
+<summary>
+  Task
+</summary>
 </details>
 <br><br>
 
 
 ### Week 2 : 
-[Calculus](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science)<br> 
+[Introduction to Shell](https://app.datacamp.com/learn/courses/introduction-to-shell)<br> 
+[Introduction to Bash Scripting](https://app.datacamp.com/learn/courses/introduction-to-bash-scripting)<br> 
+[Data Processing in Shell](https://app.datacamp.com/learn/courses/data-processing-in-shell)<br> 
 <details>
 <summary>
   Additional
 </summary>
+</details>
+<details>
+<summary>
+  Task
+</summary>
 
-[Differential Calculus Notebook](https://github.com/ageron/handson-ml3/blob/main/math_differential_calculus.ipynb)
+<a href="https://www.hackerrank.com/domains/shell">Linux Shell-HackerRank</a><br>
 </details>
 <br><br>
 
  
 ### Week 3 : 
-[Supervised Machine Learning (week 1,2)](https://www.coursera.org/learn/machine-learning) <br>
+[Snowflake-Udemy (1 to 4)](https://www.udemy.com/course/snowflake-masterclass/?couponCode=MTST7102224A2) <br>
+[Fundamentals of Data Engineering CH 1](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/?_gl=1*rcg1fp*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3NDc0Ny4yLjEuMTczMjY3NDc5My4xNC4wLjA.) <br>
 <details>
 <summary>
   Additional
-</summary>
+  
 </summary> 
   
-[Sklearn Session](https://github.com/Eyadwaelll/Sklearn_Session)
+[Introduction to Snowflake](https://app.datacamp.com/learn/courses/introduction-to-snowflake) <br>
+[Introduction to Data Modeling in Snowflake](https://app.datacamp.com/learn/courses/introduction-to-data-modeling-in-snowflake) <br>
 </details>
 <br><br>
 
 
 ### Week 4 : 
-[Supervised Machine Learning (week 3)](https://www.coursera.org/learn/machine-learning) <br>
+[Snowflake-Udemy (5 to 8)](https://www.udemy.com/course/snowflake-masterclass/?couponCode=MTST7102224A2) <br>
+[Fundamentals of Data Engineering CH 2](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/?_gl=1*rcg1fp*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3NDc0Ny4yLjEuMTczMjY3NDc5My4xNC4wLjA.) <br>
 <details>
 <summary>
   Additional
@@ -293,17 +303,21 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 <br><br>
   
 ### Week 5 : 
-[Advanced Learning Algorithms (week 1,2)](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
+[dbt (1 to 20)](https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT) <br> 
+[Fundamentals of Data Engineering CH 3](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/?_gl=1*rcg1fp*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3NDc0Ny4yLjEuMTczMjY3NDc5My4xNC4wLjA.) <br>
 <details>
 <summary>
   Additional
 </summary>
+
+[Introduction to dbt](https://app.datacamp.com/learn/courses/introduction-to-dbt) <br> 
 </details>
 <br><br>
 
  
 ### Week 6 :
-[Advanced Learning Algorithm (week 3,4)](https://www.coursera.org/learn/advanced-learning-algorithms) <br> 
+[dbt (21 to 41)](https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT) <br> 
+[Fundamentals of Data Engineering CH 4](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/?_gl=1*rcg1fp*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3NDc0Ny4yLjEuMTczMjY3NDc5My4xNC4wLjA.) <br>
 <details>
 <summary>
   Additional
@@ -313,14 +327,13 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 <summary>
   Task
 </summary>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYHLohf5sHbVv45WsagjrB5UoD5e4u1QgaUAzWyHCUQwj2Bw/viewform?usp=sf_link">End to End Machine Learning Project | Guided Task</a><br>
 </details>
 <br><br>
 <br><br>
 
  
 ### Week 7 : 
-[Unsupervised Learning, Recommenders, Reinforcement Learning (week 1,2)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
+[Fundamentals of Data Engineering CH 5 & CH 6](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/?_gl=1*rcg1fp*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3NDc0Ny4yLjEuMTczMjY3NDc5My4xNC4wLjA.) <br>
 <details>
 <summary>
   Additional
@@ -330,7 +343,7 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 
  
 ### Week 8 : 
-[Unsupervised Learning, Recommenders, Reinforcement Learning (week 3)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
+[Fundamentals of Data Engineering CH 7 & CH 8](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/?_gl=1*rcg1fp*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3NDc0Ny4yLjEuMTczMjY3NDc5My4xNC4wLjA.) <br>
 <details>
 <summary>
   Additional
@@ -338,110 +351,23 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 </details>
 <br><br>
 
-### Week 9 : 
-[Inferential Statistics](https://learn.udacity.com/courses/ud201) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
- 
-### Week 10 :
-Chapter 1,2 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)
-<details>
-<summary>
-  Additional
-</summary>
-  
-[Pipeline Session](https://drive.google.com/drive/folders/1ax-8Fxzfq2XE3eqlvQZBrzHV-XUqrbXU?usp=drive_link)
-
-[Chapter 1 Notebook](https://github.com/ageron/handson-ml3/blob/main/01_the_machine_learning_landscape.ipynb) 
-
-[Chapter 2 Notebook](https://github.com/ageron/handson-ml3/blob/main/02_end_to_end_machine_learning_project.ipynb)
-</details>
-<details>
-<summary>
-  Task
-</summary>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSch83rLzXZX884LKOPrjZC7lqzrQq8nV9tunzXFtUbiO08T4g/viewform">Chapter 2 Regression task</a><br>
-</details>
-<br><br>
-<br><br>
-
-### Week 11 :
-Chapter 3,4 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)
-<details>
-<summary>
-  Additional
-</summary>
-
-[Chapter 3 Notebook](https://github.com/ageron/handson-ml3/blob/main/03_classification.ipynb)   
-[Chapter 4 Notebook](https://github.com/ageron/handson-ml3/blob/main/04_training_linear_models.ipynb)
-</details>
-<details>
-<summary>
-  Task
-</summary>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSf52gcweZHsEl-Tp7AvTapQnnT0AAxvAjTWqTc4uhB4qEiL2g/viewform">Chapter 4 | Logistic Regression From Scratch</a><br>
-</details>
-<br><br>
-<br><br>
-
-### Week 12 :
-Chapter 5,6 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)
-<details>
-<summary>
-  Additional
-</summary>
-[Chapter 5 Notebook](https://github.com/ageron/handson-ml3/blob/main/05_support_vector_machines.ipynb)    
-[Chapter 6 Notebook](https://github.com/ageron/handson-ml3/blob/main/06_decision_trees.ipynb)
-</details>
-<br><br>
-
-### Week 13 :
-Chapter 7,8 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)
-<details>
-<summary>
-  Additional
-</summary>
-
-[Chapter 7 Notebook](https://github.com/ageron/handson-ml3/blob/main/07_ensemble_learning_and_random_forests.ipynb)    
-[Chapter 8 Notebook](https://github.com/ageron/handson-ml3/blob/main/08_dimensionality_reduction.ipynb)
-</details>
-<details>
-<summary>
-  Task
-</summary>
- <a href="https://docs.google.com/forms/d/1sufALwThtacaKYu3KJy8kb0TeyRIik2Hdgi6ERcZPCg/edit">Chapter 7 Task | Machine Learning Project with Streamlit Deployment</a><br>
-</details>
-<br><br>
-<br><br>
-
-### Week 14 :
-Chapter 9 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)
-<details>
-<summary>
-  Additional
-</summary>
-
-[Chapter 9 Notebook](https://github.com/ageron/handson-ml3/blob/main/09_unsupervised_learning.ipynb)
-</details>
-<br><br>
    
-<h2 id="stage-4"><a href="#stage-4"><img src="" width="200px"></a></h2>
+<h2 id="stage-4"><a href="#stage-4"><img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/4697c291e90598d6684f459fd1d7f872b40050cc/Images/Stage%204.png" width="200px"></a></h2>
 
 ### Week 1 : 
-[First 2 Weeks Neural Networks course](https://www.coursera.org/learn/neural-networks-deep-learning) <br>
+[Understanding Cloud](https://app.datacamp.com/learn/courses/understanding-cloud-computing) <br>
 <details>
 <summary>
   Additional
 </summary>
+
+[Microsoft Azure Fundamentals (AZ-900)](https://app.datacamp.com/learn/skill-tracks/microsoft-azure-fundamentals-az-900) <br>
 </details>
 <br><br>
 
 ### Week 2 :
-[Finsh Neural Networks course](https://www.coursera.org/learn/neural-networks-deep-learning) <br>
+[Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering?) <br>
+"Finish all the courses inside this track beside working on the other topics"
 <details>
 <summary>
   Additional
@@ -450,16 +376,18 @@ Chapter 9 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Sc
 <br><br>
  
 ### Week 3 :
-[First week Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) <br>
+[Airflow for beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT) <br>
 <details>
 <summary>
   Additional
 </summary>
+
+[Introduction to Apache Airflow in Python](https://app.datacamp.com/learn/courses/introduction-to-apache-airflow-in-python) <br>
 </details>
 <br><br>
  
 ### Week 4 :
-[Second week Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) <br>
+[ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka) <br>
 <details>
 <summary>
   Additional
@@ -468,7 +396,7 @@ Chapter 9 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Sc
 <br><br>
  
 ### Week 5 :
-[Finish week Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) <br>
+[Docker & Kubernetes-Big Data بالعربي](https://www.youtube.com/watch?v=PrusdhS2lmo&t=14644s) <br>
 <details>
 <summary>
   Additional
@@ -477,7 +405,7 @@ Chapter 9 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Sc
 <br><br>
 
 ### Week 6 :
-[Structuring Machine Learning Projects Course](https://www.coursera.org/learn/machine-learning-projects) <br>
+[Hadoop-Big Data بالعربي](https://www.youtube.com/playlist?list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE) <br>
 <details>
 <summary>
   Additional
@@ -486,7 +414,7 @@ Chapter 9 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Sc
 <br><br>
 
 ### Week 7 :
-Chapter 1,2,3 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
+[Hadoop & Distributed Systems(1 to 13)](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
 <details>
 <summary>
   Additional
@@ -495,7 +423,7 @@ Chapter 1,2,3 in [Deep Learning with python book](https://www.oreilly.com/librar
 <br><br>
 
 ### Week 8 :
-Chapter 4,5 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
+[Hadoop & Distributed Systems(13 to 25)](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
 <details>
 <summary>
   Additional
@@ -504,7 +432,8 @@ Chapter 4,5 in [Deep Learning with python book](https://www.oreilly.com/library/
 <br><br>
 
 ### Week 9 :
-Chapter 6,7 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
+[Apache Spark(1 to 14)](https://www.youtube.com/playlist?list=PLxNoJq6k39G9lTU9A65HwC0uWD-XkqqOi) <br>
+[Learning Spark, 2nd Edition CH 1](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/?_gl=1*179wvmq*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3ODcwOS4zLjEuMTczMjY3ODczOC4zMS4wLjA.) <br>
 <details>
 <summary>
   Additional
@@ -513,7 +442,8 @@ Chapter 6,7 in [Deep Learning with python book](https://www.oreilly.com/library/
 <br><br>
 
 ### Week 10 :
-[Convolutional Neural Networks Week 1, Week 2](https://www.coursera.org/learn/convolutional-neural-networks) <br>
+[Apache Spark(15 to 27)](https://www.youtube.com/playlist?list=PLxNoJq6k39G9lTU9A65HwC0uWD-XkqqOi) <br>
+[Learning Spark, 2nd Edition CH 2](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/?_gl=1*179wvmq*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3ODcwOS4zLjEuMTczMjY3ODczOC4zMS4wLjA.) <br>
 <details>
 <summary>
   Additional
@@ -522,16 +452,21 @@ Chapter 6,7 in [Deep Learning with python book](https://www.oreilly.com/library/
 <br><br>
 
 ### Week 11 :
-[Convolutional Neural Networks Week 3, Week 4](https://www.coursera.org/learn/convolutional-neural-networks) <br>
+[Spark-Udacity (1 to 3)](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) <br>
+[Learning Spark, 2nd Edition CH 3 & CH 4](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/?_gl=1*179wvmq*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3ODcwOS4zLjEuMTczMjY3ODczOC4zMS4wLjA.) <br>
+<details>
 <details>
 <summary>
   Additional
 </summary>
+
+[Big Data with PySpark](https://app.datacamp.com/learn/skill-tracks/big-data-with-pyspark) <br>
 </details>
 <br><br>
 
 ### Week 12 :
-Chapter 8,9 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)<br>
+[Spark-Udacity (3 to 6)](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) <br>
+[Learning Spark, 2nd Edition CH 5 & CH 6](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/?_gl=1*179wvmq*_ga*MTc2MDU5NDI2OS4xNzMyNjU4NDky*_ga_092EL089CH*MTczMjY3ODcwOS4zLjEuMTczMjY3ODczOC4zMS4wLjA.) <br>
 <details>
 <summary>
   Additional
@@ -539,43 +474,6 @@ Chapter 8,9 in [Deep Learning with python book](https://www.oreilly.com/library/
 </details>
 <br><br>
 
-
-### Week 13 :
-[Sequence Models Week 1, Week 2](https://www.coursera.org/learn/nlp-sequence-models) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-
-### Week 14 :
-[Sequence Models Week 3, Week 4](https://www.coursera.org/learn/nlp-sequence-models) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 15 :
-Chapter 10,11 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)<br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 16 :
-Chapter 12,13 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)<br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
  
  
  > More to be added...
