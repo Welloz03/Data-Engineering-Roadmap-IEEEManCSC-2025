@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Assets/ieee data science roadmap.png" width="60%">
+    <img src="Images/IEEE Data Engineering Roadmap.png" width="60%">
 </p>
 
 
