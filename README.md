@@ -17,6 +17,6 @@
 
 ## Here we have two files
 
-- General Roadmap: Contains the full roadmap as headlines and each one has some suggested courses. <br>
-- Sheduled Roadmap (recommended): The same roadmap, but a specific course was chosen in each subject and it was divided into weeks, at a studying rate of 8 hours per week.
+- General Roadmap: Contains the full roadmap as headlines, each with some suggested courses. <br>
+- Scheduled Roadmap (recommended): The same roadmap, but a specific course was chosen for each subject and divided into weeks, at a study rate of 8 hours per week.
   <br>
