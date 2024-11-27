@@ -25,7 +25,7 @@
   Additional
 </summary>
 
-[Relational Database Internals(1 to 11)](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF)
+
 </details>
 <details>
 <summary>
@@ -42,7 +42,6 @@
   Additional
 </summary>
 
-[Relational Database Internals(12 to 22)](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF)
 </details>
 <details>
 <summary>
@@ -68,8 +67,19 @@
 </details>
 <br><br>
 
-
 ### Week 4: 
+[Relational Database Internals](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF) <br> 
+<details>
+<summary>
+  Additional
+</summary>
+
+<br>
+ <br>
+</details>
+<br><br>
+
+### Week 5: 
 [Python Basics-Big Data بالعربي-Part1](https://www.youtube.com/watch?v=XKQaCF_Om8o) <br>
 [Python Basics-Big Data بالعربي-Part 2](https://www.youtube.com/watch?v=XKQaCF_Om8o) <br>
 <details>
@@ -89,7 +99,7 @@
 <br><br>
 
 
-### Week 5: 
+### Week 6: 
 [Python Libraries-Numpy](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br>
 [Python Libraries-Pandas(1 to 6)](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br>
 <details>
@@ -102,7 +112,7 @@
 <br><br>
 
  
-### Week 6: 
+### Week 7: 
 [Python Libraries-Pandas(7 to 11)](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br> 
 <details>
 <summary>
@@ -114,7 +124,7 @@
 </details>
 <br><br>
 
-### Week 7: 
+### Week 8: 
 "Revision on the Past weeks"
 <br>Take a Look at the General roadmap and enrich your knowledge from the beginner level <a href="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/main/General%20Roadmap.md">General Roadmap</a><br> And continue to solve on SQL & Python in Leetcode and DataLemur (HackerRank is beginner friendly so we want to level up more) <br> Don't forget to apply your newly acquired skills to a project
  
