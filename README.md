@@ -11,7 +11,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="">
-        <img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/4b87474714617f215f6c90341273454d3d2dba04/Images/Scheduled%20Roadmap.png" style="width:19em;" >
+        <img src="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/dde8b3fc85977e87b6a556406d4f530b14e5247e/Images/Scheduled%20Roadmap.png" style="width:19em;" >
     </a>
 </p>
 
