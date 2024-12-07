@@ -20,3 +20,7 @@
 - General Roadmap: Contains the full roadmap as headlines, each with some suggested courses. <br>
 - Scheduled Roadmap (recommended): The same roadmap, but a specific course was chosen for each subject and divided into weeks, at a study rate of 8 hours per week.
   <br>
+--- 
+### **Feel free to contact us:**
+- [Kareem Nagah](https://www.linkedin.com/in/kareem-nagah-81328022a/)
+- [Mohamed Wael](https://www.linkedin.com/in/mohamedwael03/)
