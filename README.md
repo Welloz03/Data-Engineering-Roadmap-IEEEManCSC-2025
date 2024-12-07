@@ -21,6 +21,13 @@
 - Scheduled Roadmap (recommended): The same roadmap, but a specific course was chosen for each subject and divided into weeks, at a study rate of 8 hours per week.
   <br>
 --- 
+## Contributors
+
+| ![Avatar](https://avatars.githubusercontent.com/u/56614096?v=4&size=100) | ![Avatar](https://avatars.githubusercontent.com/u/174941556?v=4&size=100) |
+| ----------------------------------------------------- | ----------------------------------------------------- |
+| [@kareemNagah](https://github.com/kareemNagah)        | [@Welloz03](https://github.com/Welloz03)             |
+
+---
 ### **Feel free to contact us:**
-- [Kareem Nagah](https://www.linkedin.com/in/kareem-nagah-81328022a/)
-- [Mohamed Wael](https://www.linkedin.com/in/mohamedwael03/)
+- [Kareem Nagah LinkedIn](https://www.linkedin.com/in/kareem-nagah-81328022a/)
+- [Mohamed Wael LinkedIn](https://www.linkedin.com/in/mohamedwael03/)
