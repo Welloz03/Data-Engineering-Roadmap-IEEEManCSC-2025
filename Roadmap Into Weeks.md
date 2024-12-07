@@ -376,7 +376,7 @@
 <br><br>
 
 ### Week 2 :
-[Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering?) <br>
+[Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate](https://youtube.com/playlist?list=PLuQSde7Xvu7DCRenR1otgxAplTtnzKO9e&si=ToGJDV4OybK5FcL7) <br>
 "Finish all the courses inside this track beside working on the other topics"
 <details>
 <summary>
