@@ -158,14 +158,15 @@
 [The Data Warehouse Toolkit CH 4](https://www.oreilly.com/library/view/the-data-warehouse/9781118530801/) <br>
 <details>
 <summary>
-  Additional
+  Additional
 </summary>
+  <a href="https://youtu.be/9GVqKuTVANE?si=nm5F97BiHsWzd6pt">Data with Baraa</a> <br>
 </details>
 <details>
 <summary>
-  Task
+  Task
 </summary>
-  <a href="https://www.youtube.com/playlist?list=PLcAbhg_RWLaLUaYpAAvOLu2hlyVgZlRjb">Project</a><br>
+  <a href="https://www.youtube.com/playlist?list=PLcAbhg_RWLaLUaYpAAvOLu2hlyVgZlRjb">Project</a><br>
 </details>
 <br><br>
 
