@@ -125,6 +125,9 @@
 <br><br>
 
 ### Week 8: 
+<br>[Introduction to Importing Data in Python](https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-python)
+<br>[Introduction to Relational Databases in Python](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-python)
+
 "Revision on the Past weeks"
 <br>Take a Look at the General roadmap and enrich your knowledge from the beginner level <a href="https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025/blob/main/General%20Roadmap.md">General Roadmap</a><br> And continue to solve on SQL & Python in Leetcode and DataLemur (HackerRank is beginner friendly so we want to level up more) <br> Don't forget to apply your newly acquired skills to a project
  
